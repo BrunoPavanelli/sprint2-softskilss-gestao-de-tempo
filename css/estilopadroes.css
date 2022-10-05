@@ -11,13 +11,3 @@ body {
     font-family: 'Roboto', sans-serif;
  }
 
- .first_titulo {
-    border: 2px solid gray;
-    border-radius: 10px;
-    width: 55%;
-    margin: 1% auto;
-    box-shadow: 3px 3px 3px 3px black;
-    background-color: #ff8787;
-    color: #ffe3e3;
-  
-}
